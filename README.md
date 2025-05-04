@@ -1,4 +1,4 @@
-Site criado utilizando node.js e react, para cunho educativo, inspirado em outros sites imc e com base e pesquisa nas explicações do yt - Sujeito Programador
+Site criado utilizando node.js e react, para cunho educativo, inspirado em outros sites imc, feito atraves de pesquisas e base nas explicações do yt - Sujeito Programador
 
 # Getting started with REACT
 
